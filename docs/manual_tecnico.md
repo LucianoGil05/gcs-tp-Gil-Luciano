@@ -1,0 +1,2 @@
+### Modificación de Validación de Teléfono (Ticket #101)
+Se implementó la función `validarTelefono(tel)` en `src/script.js` utilizando la expresión regular `/^[0-9]+$/` para asegurar que el valor solo contenga dígitos
